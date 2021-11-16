@@ -1,7 +1,7 @@
 import java.util.Scanner;
 
 class chicles {
-    public static void main(String[] args) {
+    public static void main(Strking[] args) {
         
         Scanner teclat = new Scanner (System.in);
         System.out.println("Vols jugar");
