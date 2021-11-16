@@ -2,7 +2,7 @@ import java.util.Scanner;
 
 class chicles {
     public static void main(String[] args) {
-        
+        System.out.println('Hola,soc Stanislav Sevdalinov');
         Scanner teclat = new Scanner (System.in);
         System.out.println("Vols jugar");
         String joc = teclat.nextLine();
